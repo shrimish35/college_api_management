@@ -1,0 +1,1 @@
+"""College API route modules."""

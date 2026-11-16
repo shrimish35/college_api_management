@@ -1,0 +1,8 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+college.db
+college.db-journal
+college.db-wal
+college.db-shm
